@@ -8,8 +8,7 @@ results to transform businesses into sustainable, recognizable brands.
 Our goal is to bridge the "Trust Deficit" in the Egyptian market. We aim to transform businesses into sustainable brands 
 by integrating data-backed performance marketing with exceptional post-sales customer experiences, ensuring long-term loyalty 
 and profitable, scalable growth for our partners.
-
-
+---
 
 ##👥 Team Member :
 - Marian Youssef Shafik
@@ -17,7 +16,7 @@ and profitable, scalable growth for our partners.
 - Nagwa Ramadan Abdelrahman
 - Abdullah Mohammed Saed
 - Abdelrahman Abdelsadek Hafez
-
+---
 ## Work Plan : 
    1. Research &  Analysis Analysis
            1. The Niche Strategy
