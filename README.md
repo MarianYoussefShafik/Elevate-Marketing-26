@@ -81,7 +81,7 @@ Digital Egypt Pioneers Initiative (DEPI)
 - Lead response time أقل من 30 دقيقة  
 - Acquire 6 clients within first 45 days  
 - Customer satisfaction ≥ 4.5 / 5 within 90 days  
-- ROAS target: **4:1** by end of Q1  
+- Reduce Cost Per Engagement (CPE) to ≤ 0.50 EGP within campaign period 
 
 
 
