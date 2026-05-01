@@ -19,13 +19,11 @@ Our goal is to solve the **Trust Deficit** in the Egyptian market and ensure lon
 ## 👥 Team Members
 
 - Marian Youssef Shafik  
-- Asmaa Bakr  
-- Mohamed Nagwa  
-- Ramadan Abdelrahman  
-- Abdullah Mohammed  
-- Saed Abdelrahman  
-- Abdelsadek Hafez  
-
+- Asmaa Bakr Mohammed
+- Nagwa Ramadan Abdelrahman   
+- Abdullah Mohammed Saed 
+- Abdelrahman Abdelsadek Hafez 
+  
 ---
 
 ## 🛠 Work Plan
