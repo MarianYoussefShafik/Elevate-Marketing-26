@@ -11,12 +11,12 @@ and profitable, scalable growth for our partners.
 
 
 
-## Team Member :
-Marian Youssef Shafik
-Asmaa Bakr Mohamed
-Nagwa Ramadan Abdelrahman
-Abdullah Mohammed Saed
-Abdelrahman Abdelsadek Hafez
+##👥 Team Member :
+- Marian Youssef Shafik
+- Asmaa Bakr Mohamed
+- Nagwa Ramadan Abdelrahman
+- Abdullah Mohammed Saed
+- Abdelrahman Abdelsadek Hafez
 
 ## Work Plan : 
    1. Research &  Analysis Analysis
