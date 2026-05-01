@@ -11,21 +11,21 @@ and profitable, scalable growth for our partners.
 
 
 
-Team Member :
+## Team Member :
 Marian Youssef Shafik
 Asmaa Bakr Mohamed
 Nagwa Ramadan Abdelrahman
 Abdullah Mohammed Saed
 Abdelrahman Abdelsadek Hafez
 
-Work Plan : 
+## Work Plan : 
    1. Research &  Analysis Analysis
            1. The Niche Strategy
            2. Swot Analysis
            3. Competitors Analysis
            4. Target Audience
 
-      Audience personas:
+  Audience personas:
         B2C (E-commerce Brands): Need direct, measurable sales 
         B2B (Manufacturers): Need authority and long-term partnerships via LinkedIn
 
